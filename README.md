@@ -1,7 +1,7 @@
 # Django custom User Model and User Manager
 
 # Description
-This project shows how to cutomize Django's user model and user manager.
+This project shows how to customize Django's user model and user manager.
 
 ## Technology Stack
 Backend: Django <br />
